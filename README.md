@@ -18,3 +18,20 @@ Son arsenal de combat comprend des bombes disposant d'effets variés, une arbal�
 ![instrument](img/Baglama_turc_manche_long.jpg)
 
 La bande-son du jeu est accueillie très favorablement par les critiques et se distingue par son fort usage de sons et de chants slaves, parfois à base de lamentations de femmes, notamment dans les thèmes accompagnant les phases de combat45. Elle est enregistrée à Francfort-sur-l'Oder par le Brandenburg State Orchestra sous la direction de Bernd Ruf46. Les sons de bataille, de canons, de flèches décochées, le cliquetis des troupes marchant en armure et d'un forgeron à l'œuvre sont introuvables dans les bibliothèques de sons et sont donc captés lors d'une reconstitution de la bataille de Grunwald. Pour refléter l'écho et le bruit étouffé des heaumes sur la voix des soldats et plutôt que de maquiller le son avec des égaliseurs, leurs dialogues sont enregistrés en déposant un casque sur le micro. Les sons plus précis d'une épée sortie de son fourreau, de gravier, ou d'étoffe de vêtement que l'on effleure sont enregistrés en studio. Les bruits ambiants accompagnant Geralt lorsque celui-ci chevauche Ablette ou traverse une rivière, quant à eux, varient selon la météorologie et sont par exemple atténués si une tempête fait rage ou si le vent souffle. L'équipe son a à cœur de proposer une expérience authentique, « brutale, crue, et capable de faire frissonner tout entier à l'écoute »
+
+## Extensions
+
+### Heart of stone
+![heartofstone](img/heartofstone.jpg)
+
+*chanson :*
+*Son visage est doux, ses mots vous ensorcellent
+L’engeance du démon n’en est pas moins cruelle.
+Il exaucera vos vœux les plus ardents,
+Vous couvrira d’argent, d’or et de diamants.
+Le prix à payer est un grand sacrifice ;
+Une vie de peines, de souffrances et de vices,
+Votre raison, votre âme et vos tourments
+Lui appartiendront jusqu’à la fin des temps.*
+
+L'extension suit Geralt de Riv rentrant en contact avec un mystérieux homme connu sous le nom de Gaunter de Meuré, déjà rencontré dans Wild Hunt, et ses connections avec Olgierd von Everec, un noble maudit.
