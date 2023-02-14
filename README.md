@@ -54,3 +54,9 @@ On y trouve également de nombreuses références aux contes de fées :
 - Hansel et Gretel
 - La Petite Poucette
 - Les Musiciens de Blaviken
+
+## Postérité 
+![wildland](img/wildland.jpg)
+### Un jalon dans l'histoire du jeu de rôle et du monde ouvert
+
+Pour les joueurs comme pour les développeurs, The Witcher 3 devient le nouveau point de comparaison pour mesurer l'ampleur des futurs jeux se réclamant du même genre. Il détrône à ce statut The Elder Scrolls 5: Skyrim, jusque-là souvent considéré comme l'aboutissement des jeux de rôle.
