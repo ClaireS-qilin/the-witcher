@@ -1,1 +1,7 @@
-# thewitcher
+# the Witcher
+![the-witcher](img/thewitcher.jpg)
+## Résumé
+
+The Witcher 3: Wild Hunt (en polonais : Wiedźmin 3: Dziki Gon) est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED, sorti le 19 mai 2015 sur PC (Microsoft Windows et GNU/Linux1), PlayStation 4 et Xbox One, puis sur Nintendo Switch le 15 octobre 2019, tandis que des versions PlayStation 5 et Xbox Series sont disponibles le 14 décembre 2022. Il fait suite narrativement à The Witcher (2007) et The Witcher 2: Assassins of Kings (2011). Il est ainsi le troisième jeu vidéo à prendre place dans l'univers littéraire du Sorceleur, créé par l'écrivain polonais Andrzej Sapkowski, et le dernier à présenter les aventures de Geralt de Riv.
+
+Le jeu, situé dans un monde dark fantasy, suit les traces du sorceleur Geralt de Riv, un chasseur de monstres dont la fille adoptive, Ciri, est menacée par la Chasse sauvage. Des références sont faites au contenu des livres écrits par Sapkowski, mais l'intrigue est inédite et propose une conclusion à la trilogie entamée avec le premier jeu, sorti huit ans plus tôt. Contrairement aux deux autres opus de la série, The Witcher 3 prend place dans un monde ouvert en usant d'un point de vue à la troisième personne, et se concentre sur l'utilisation des talents de combat et de détective de Geralt pour mener à bien des contrats et explorer l'environnement. Le tout se déroule dans le cadre d'une quête principale à plusieurs embranchements, qui peut se résoudre selon 36 fins différentes, et d'une multitude de missions secondaires.
